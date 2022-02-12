@@ -3,18 +3,18 @@
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)]
 
   ##Table of Contents:
-  1.[Description](#description)
-  2.[Installation](#install)
-  3.[Usage](#usage)
-  4.[Tests](#tests)
-  5.[Questions](#questions)
-  5.[License](#licenses)
+  * [Description](#description)
+  * [Installation](#install)
+  * [Usage](#usage)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  * [License](#licenses)
 
   ##Description
-  A README generator that takes user input in node and creates a README.md
+  A README Generator using user input to create a README.md file
 
   ##Installation
-  Download files
+  Download fils
 
   ##Tests
   N/A
