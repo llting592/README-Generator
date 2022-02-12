@@ -32,4 +32,4 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Demo
-[Link to Video](https://watch.screencastify.com/v/uUq3t0IT3RM0NNIWKmwj)
+[Link to Video](https://watch.screencastify.com/v/fLg7fkyEvIdNHNE2UnCG)
